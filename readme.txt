@@ -1,0 +1,1 @@
+Shows TCP packets captured, when stopped shows Source MAC (router or local machine), port, and percentage those packets were out of all packets captured
